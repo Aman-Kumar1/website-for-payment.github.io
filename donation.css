@@ -1,0 +1,41 @@
+   body
+        {
+            background-image: url('rege.jpeg');
+         background-repeat: no-repeat;
+           background-attachment: fixed;  
+  background-size: cover;
+color:#ffffff;
+         }
+        h1,h2
+        {
+            margin-left: 500px; 
+        
+        }
+        button
+        {
+            margin-left: 650px;
+        height: 1cm;
+        width: 5cm;
+        font-size: large;
+        }
+        #1
+        {
+            font-size: 40px; 
+            color: rgb(240, 255, 238); 
+            text-align-left:"left";
+        }
+        a
+        {
+            font-size: 30px;
+             color: rgb(240, 255, 238); 
+             text-align-last: center;
+        }
+        #2
+        {
+            font-size: 40px; 
+            color: rgb(128, 0, 0);
+        }
+        img
+        {
+            float:left;
+        }

@@ -1,0 +1,23 @@
+  body
+    {
+        background-image: url('backgroung.jpg');
+           background-repeat: no-repeat;
+           background-attachment: fixed;  
+  background-size: cover;
+    }
+    form
+    {
+        margin-left: 12cm;
+        color: #ffffff;
+    }
+    fieldset
+    {
+    width: 15cm;
+    color: rgba(187, 31, 31, 0.767);
+    color: #ffffff;
+    background-color: rgba(193, 202, 193, 0.637);
+    }
+    legend
+    {
+        font-size: 40px;;
+    }
